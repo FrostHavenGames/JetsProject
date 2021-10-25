@@ -1,0 +1,5 @@
+Passenger,Passenger1,100.6,75,1234
+Fighter,Fighter1,300.2,1000,12345
+Cargo,Cargo1,123.3,2500,100
+Passenger,Passenger2,222.6,111,12324
+Fighter,Fighter2,285.2,1250,12200
